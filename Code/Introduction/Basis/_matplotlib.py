@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns  # visualization tool
 
 # 使用pandas从数据集中的csv文件写入数据
-# data = pd.read_csv('Pokemon.csv')
+data = pd.read_csv('Pokemon.csv')
 
 # 线图
 # 绘制两条曲线，Speed和Defense；分别定义颜色，线宽，不透明度，网格，线型等属性
